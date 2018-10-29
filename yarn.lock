@@ -1353,9 +1353,9 @@ braces@^2.3.1:
     split-string "^3.0.2"
     to-regex "^3.0.1"
 
-bs-platform@^4.0.6:
-  version "4.0.6"
-  resolved "https://registry.yarnpkg.com/bs-platform/-/bs-platform-4.0.6.tgz#e7f156c77ad3efafb0c0291b41dcf1b06f93c192"
+bs-platform@^4.0.7:
+  version "4.0.7"
+  resolved "https://registry.yarnpkg.com/bs-platform/-/bs-platform-4.0.7.tgz#1a0bbf0fef439fef5f1a88ba60d5ac8a6d73570c"
 
 bs-react-native@^0.10.0:
   version "0.10.0"
@@ -3839,6 +3839,10 @@ reason-react@^0.5.3:
   dependencies:
     react ">=15.0.0 || >=16.0.0"
     react-dom ">=15.0.0 || >=16.0.0"
+
+rebolt@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/rebolt/-/rebolt-0.2.0.tgz#7bbe0c4242a0d572b878e910bd6e6f376ade10be"
 
 regenerate@^1.2.1:
   version "1.4.0"

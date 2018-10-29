@@ -10,7 +10,7 @@
   ],
   "suffix": ".bs.js",
   "namespace": true,
-  "bs-dependencies": ["bs-react-native", "reason-react"],
+  "bs-dependencies": ["rebolt", "bs-react-native", "reason-react"],
   "sources": [
     {
       "dir": "re"
